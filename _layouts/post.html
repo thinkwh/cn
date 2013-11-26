@@ -46,7 +46,7 @@ layout: default
   <div class="divider">
     <span>
     {% if page.previous %}
-    <a href="/cn/{{ page.previous.url }}"><i class="fa fa-chevron-left"></i></a>
+    <a href="/cn{{ page.previous.url }}"><i class="fa fa-chevron-left"></i></a>
     {% else %}
     <i class="fa fa-circle"></i>
     {% endif %}
@@ -55,7 +55,7 @@ layout: default
     <span><a href="javascript:collapse_comment();" id="collapse_comment_link" style="display:none;"><i class="fa fa-chevron-up"></i></a></span>
     <span>
     {% if page.next %}
-    <a href="/cn/{{ page.next.url }}"><i class="fa fa-chevron-right"></i></a>
+    <a href="/cn{{ page.next.url }}"><i class="fa fa-chevron-right"></i></a>
     {% else %}
     <i class="fa fa-circle"></i>
     {% endif %}
