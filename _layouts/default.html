@@ -40,7 +40,7 @@
             {% assign first_post = site.posts | last %}
             &copy; {{ first_post.date | date: "%Y" }} ~ {{ site.time | date: "%Y" }} {{ site.author }} | powered by jekyll | themed by <a href="http://lhzhang.com" title="sext vi">sext vi</a>
             -->
-            Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> on GitHub | Copyright 2013 - {{site.time | date:"%Y"}} by <a href="http://thinkwh.github.io">Hui Wang</a> | themed by <a href="http://lhzhang.com" title="sext vi">sext vi</a> | <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span>
+            Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> on GitHub | Copyright 2013 - {{site.time | date:"%Y"}} by <a href="http://thinkwh.github.io">Hui Wang</a> | themed by <a href="http://lhzhang.com" title="sext vi">sext vi</a> | {{site.time | date:"%Y-%m-%d %H:%M:%S"}}
           </div>
         </footer>
       </div> <!-- main -->
