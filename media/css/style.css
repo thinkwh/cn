@@ -198,3 +198,7 @@ footer {
 .gist {
   font-size: 13px;
   line-height: 1.6; }
+
+.label-info {
+  background-color:#3a87ad;
+}
