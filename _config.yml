@@ -5,7 +5,7 @@ name: "[Hui Wang]"
 markdown: rdiscount
 
 author: "thinkwh"
-atom-baseurl: "http://thinkwh.github.io"
+atom-baseurl: "http://thinkwh.github.io/cn"
 disqus: "thinkwh"
 
 navigations:
