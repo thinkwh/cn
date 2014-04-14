@@ -1,4 +1,4 @@
 cn
 ==
 
-Hui's cn blog
+Hui's cn blog.
