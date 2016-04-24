@@ -1,10 +1,9 @@
 ---
-title: about
+title: 关于我
 layout: page
 ---
 
-博三学生
+北京航空航天大学计算机学院学生，关注计算机体系结构、计算机系统、虚拟化等领域。
 
-[github](https://github.com/thinkwh)
-
+[Linkedin](http://www.linkedin.com/in/thinkwh)
 
