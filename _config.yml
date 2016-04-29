@@ -1,8 +1,7 @@
-markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title.html
 name: "[Hui Wang]"
-markdown: rdiscount
+#markdown: rdiscount
 
 author: "thinkwh"
 atom-baseurl: "http://thinkwh.github.io/cn"
