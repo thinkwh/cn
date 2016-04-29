@@ -1,6 +1,8 @@
-pygments: true
 permalink: /:year/:month/:day/:title.html
 name: "[Hui Wang]"
+highlighter: rouge
+markdown: kramdown
+#pygments: true
 #markdown: rdiscount
 
 author: "thinkwh"
